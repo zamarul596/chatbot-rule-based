@@ -1,0 +1,88 @@
+{
+  "greetings": {
+    "hello": "Hi there! How are you today?",
+    "hi": "Hello! Nice to meet you!",
+    "hey": "Hey there! What's up?",
+    "hey there": "Hey! I'm here to help! What can I do for you?",
+    "good morning": "Good morning! Hope you're having a great day!",
+    "good afternoon": "Good afternoon! How's your day going?",
+    "good evening": "Good evening! Nice to chat with you!",
+    "howdy": "Howdy! Great to see you!",
+    "greetings": "Greetings! I'm excited to chat with you!"
+  },
+  "status": {
+    "how are you": "I'm just a program, but I'm here and ready to chat! How about you?",
+    "how's it going": "Things are going smoothly on my end! How about you?",
+    "how are things": "All good here! Ready to help. What's on your mind?",
+    "what's up": "Not much, just here to help! What can I do for you?",
+    "how do you feel": "I don't have feelings, but I'm always ready to assist! How can I help?"
+  },
+  "identity": {
+    "who are you": "I'm your friendly AI chatbot built for FTU Pattani students! I'm here to help you learn and have fun conversations!",
+    "what are you": "I'm an AI assistant created as a learning tool for FTU Pattani. Nice to meet you!",
+    "tell me about yourself": "I'm an AI chatbot designed using rule-based approach to have friendly conversations and answer questions. I was created by UMK students! Feel free to ask me anything!",
+    "your name": "I don't have a specific name, but you can call me your AI Buddy!",
+    "introduce yourself": "I'm an AI chatbot here to chat with you, answer questions about AI and technology, and share information about FTU Pattani!"
+  },
+  "ai_technology": {
+    "what is ai": "AI stands for Artificial Intelligence! It's about machines that can think, learn, and make decisions like humans!",
+    "what is artificial intelligence": "Artificial Intelligence (AI) is technology that enables computers to learn from data and make intelligent decisions. It powers everything from chatbots like me to self-driving cars!",
+    "how does ai work": "AI works by processing data, finding patterns, and using algorithms to make predictions or decisions. Think of it like teaching a computer through examples!",
+    "what can ai do": "AI can do amazing things!It can recognize faces, translate languages, play games, drive cars, have conversations like me, and much more!",
+    "machine learning": "Machine Learning is a type of AI where computers learn from data without being explicitly programmed. They improve over time!",
+    "deep learning": "Deep Learning is an advanced AI technique inspired by how our brains work. It uses neural networks to process complex data like images and text!",
+    "neural networks": "Neural Networks are AI systems inspired by biological neurons. They're powerful for learning patterns in complex data!",
+    "natural language processing": "NLP (Natural Language Processing) helps AI understand and generate human language. It's what powers chatbots like me!",
+    "data science": "Data Science combines statistics, programming, and domain expertise to extract insights from data. It's crucial for AI!"
+  },
+  "capabilities": {
+    "can you help me": "Of course! I'm here to help! Tell me what you need and I'll do my best!",
+    "what can you do": "I can chat with you, answer questions about AI and technology and respond to various topics! Feel free to ask me anything!",
+    "can you learn": "I use rule-based matching, so I don't learn from conversations, but I'm always ready to help with what I know!",
+    "do you have limits": "Yes, I'm rule-based so I can only answer questions with predefined responses. But I cover a lot of ground!"
+  },
+  "thai_culture": {
+    "sawadee": "Sawadee ka/krap! Welcome! It's nice to meet you!",
+    "thailand": "Thailand is a beautiful country in Southeast Asia! It's known for its temples, food, beaches, and warm hospitality!",
+    "pattani": "Pattani is a province in southern Thailand with rich history, culture, and beautiful Islamic architecture!",
+    "ftu": "FTU (Fatoni University) is located in Pattani, Thailand.",
+    "fatoni university": "Fatoni University (FTU) is a respected institution in Pattani, Thailand, known for quality education and innovation!",
+    "thai culture": "Thai culture is rich and diverse! It values respect, family, spirituality, and celebration. It's truly wonderful!",
+    "thai food": "Thai food is delicious! Try Pad Thai, Tom Yum, Green Curry, or Mango Sticky Rice - all amazing!"
+  },
+  "chatbot_specific": {
+    "aireach": "AIREACH 2025 is an exciting event showcasing AI innovations and learning! That's what this chatbot is part of!",
+    "what's aireach": "AIREACH is a platform dedicated to AI education and innovation at UMK Kampus Kota!"
+  },
+  "emotional": {
+    "thanks": "You're welcome! Happy to help!",
+    "thank you": "You're very welcome! It's my pleasure!",
+    "no problem": "Anytime! Just ask if you need anything else!",
+    "sorry": "No worries! It happens to everyone. Is there anything I can help you with?",
+    "lol": "Glad I could make you laugh!",
+    "haha": "I'm here to bring a smile to your face!"
+  },
+  "general_knowledge": {
+    "what is programming": "Programming is giving instructions to computers using code. It's the foundation of all software!",
+    "what is coding": "Coding is writing instructions for computers using programming languages. It's creative and powerful!",
+    "python": "Python is a popular programming language known for being beginner-friendly and powerful! Great for AI and data science!",
+    "javascript": "JavaScript is a language for web development. It powers interactive websites and web applications!",
+    "web development": "Web Development is creating websites and web applications. It involves HTML, CSS, JavaScript, and backend languages!",
+    "database": "A Database is an organized collection of data stored on computers. It's essential for managing information!",
+    "cloud computing": "Cloud Computing means using remote servers to store and process data instead of local computers. It's scalable and convenient!"
+  },
+  "education": {
+    "how to learn ai": "Start with basics like Python and math, then explore machine learning libraries. Practice projects and join communities!",
+    "best way to learn programming": "Practice consistently! Build projects, read code, join communities, and never stop learning!",
+    "any tips": "Here are my tips: Be curious, practice regularly, start small, build projects, and don't give up! You've got this!"
+  },
+  "farewell": {
+    "bye": "Goodbye! Have a great day! Come back soon!",
+    "goodbye": "See you later! Thanks for chatting with me!",
+    "see you": "Take care! Feel free to come back anytime!",
+    "exit": "Exiting now. Thanks for the conversation! Bye!",
+    "quit": "Bye! Have an amazing day!",
+    "farewell": "Farewell! It was great talking with you!",
+    "take care": "You too! See you soon!"
+  }
+}
