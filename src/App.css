@@ -1,10 +1,11 @@
 .chat-container {
-  width: 800px;
-  margin: 50px auto;
+  width: 90%;
+  max-width: 800px;
+  margin: 20px auto;
   background: #dce5ed;
   border-radius: 20px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  padding: 20px;
+  padding: 15px;
 }
 
 h2 {
@@ -13,7 +14,7 @@ h2 {
 }
 
 .chat-box {
-  height: 400px;
+  height: 300px;
   overflow-y: auto;
   border: 1px solid #0d0404;
   padding: 10px;
@@ -46,17 +47,20 @@ h2 {
 
 .input-area {
   display: flex;
-  gap: 10px;
+  flex-direction: column;
+  gap: 5px;
 }
 
 input {
   flex: 1;
+  width: 100%;
   padding: 10px;
   border-radius: 8px;
   border: 1px solid #ccc;
 }
 
 button {
+  width: 100%;
   background-color: #0d6efd;
   color: white;
   border: none;
@@ -104,5 +108,25 @@ button:hover {
   30% {
     opacity: 1;
     transform: translateY(-10px);
+  }
+}
+
+/* Media query for larger screens */
+@media (min-width: 768px) {
+  .chat-box {
+    height: 400px;
+  }
+
+  .input-area {
+    flex-direction: row;
+    gap: 10px;
+  }
+
+  input {
+    width: auto;
+  }
+
+  button {
+    width: auto;
   }
 }
